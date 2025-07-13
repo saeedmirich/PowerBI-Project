@@ -54,5 +54,5 @@
 ##  ارتباط با من
 در صورت داشتن هرگونه سؤال یا پیشنهاد:
 
-ایمیل: saeed.mirich@gmail.com
+ایمیل: sa33d.mirich@gmail.com
 ---
