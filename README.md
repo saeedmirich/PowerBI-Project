@@ -37,7 +37,7 @@
 
 ---
 ## پیش‌نمایش 
-![پیش‌نمایش داشبورد](./screenshots/Chain Store Scorecard.PNG)
+![پیش‌نمایش داشبورد](./screenshots/Chain_Store_Scorecard.png)
 
 
 ##  نکات تکمیلی
